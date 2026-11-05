@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "task-demo-1",
+      "title": "Review the onboarding flow",
+      "status": "todo",
+      "createdAt": "2026-10-20T09:00:00.000Z"
+    },
+    {
+      "id": "task-demo-2",
+      "title": "Document the component states",
+      "status": "in-progress",
+      "createdAt": "2026-10-20T10:00:00.000Z"
+    },
+    {
+      "id": "task-demo-3",
+      "title": "Check keyboard navigation",
+      "status": "done",
+      "createdAt": "2026-10-20T11:00:00.000Z"
+    }
+  ]
+}
